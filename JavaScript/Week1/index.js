@@ -1,19 +1,32 @@
 let rootNode = document.getElementById("demo")
-
+//  Identifier
 //  Variable and Constant
-// let, var
-// const
+// variable: let, var
+// constant: const
 let currentTempC = 22;
 var PlaceName = 'Osun'
-let progName = 'JavaScript'
+const className = 'JavaScript'
+const tempScale = 'oC', PI = 3.142
+// PlaceName = 'Ibadan'
+
+// Naming identifier
+// start with dollar sign, or underscore
+//  consist of letters, dollar sign and underscore
+// unicode character are also allows ( for example, π or ö )
+// cannot be a reserve, break, catch, const, continue,debugger,
+// default, do, else, enum, export, extends etc
+
+// className = 'Python' // TypeError
+
 rootNode.innerHTML = innerHTML = `
 <div>
 <h1> Welcome </h1>
-<h2> This is a refresher class in ${progName} </h2>
-<p>This is the current temperature in ${PlaceName} ${currentTempC} 0C
+<h2> This is a refresher class in ${className} </h2>
+<p>This is the current temperature in ${PlaceName} ${currentTempC} ${tempScale} 
 </div>
 `;
 
+// Data Types
 /* 
 variable
 Data Type
