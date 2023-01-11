@@ -27,6 +27,13 @@ rootNode.innerHTML = innerHTML = `
 `;
 
 // Data Types
+// Primitive Date type
+// Number
+// String
+// Boolean either yes or no (true or false)
+// Null,
+// undefined
+// Symbol
 /* 
 variable
 Data Type
