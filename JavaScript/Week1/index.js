@@ -7,4 +7,19 @@ rootNode.innerHTML = innerHTML = `
 </div>
 `;
 
+/* 
+variable
+Data Type
+control flow
+Expression and Operator
+Function
+Scope
+Array
+Objects
+Map and set
+Error Handling
+Abstract Thinking
+Asyncronous
+Date and Time
 
+*/
