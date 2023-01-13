@@ -21,3 +21,4 @@ name=prompt("Please enter your name ");
 const birthday = '18.04.1982';
 //not correct, there is not supposed to be string attached
 const age = someCode(birthday);
+// The syntax is not  correct 
