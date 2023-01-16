@@ -23,7 +23,7 @@
 // another varibale login
 
 // let message;
-let login = prompt("What is your position? ");
+// let login = prompt("What is your position? ");
 
 // if(login == 'Director'){
 //     message = "Greetings"
@@ -36,11 +36,33 @@ let login = prompt("What is your position? ");
 // }
 // alert(message)
 
-let message =
-  login == "Employee"
-    ? alert("Hello")
-    : login == "Director"
-    ? alert("Greetings")
-    : login == ""
-    ? alert("No Login")
-    : "";
+// let message =
+//   login == "Employee"
+//     ? alert("Hello")
+//     : login == "Director"
+//     ? alert("Greetings")
+//     : login == ""
+//     ? alert("No Login")
+//     : "";
+
+
+// let i = 3;
+// while(i){
+//   console.log(i--)
+// }  // 3, 2, 1
+
+// for(; i; i--){
+//   console.log(i)
+// }
+
+// for(let i=0;i<3;i++){
+//   console.log(i)
+// }
+
+// Assignment for loop
+// Write a loop which prompts for a number greater than 100 . If the visitor enters another number
+// – ask them to input again.
+// The loop must ask for a number until either the visitor enters a number greater than 100 or
+// cancels the input/enters an empty line.
+// Here we can assume that the visitor only inputs numbers. There’s no need to implement a
+// special handling for a non-numeric input in this task.
