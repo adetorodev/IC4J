@@ -44,5 +44,65 @@
 //   alert("Exactly!");
 // }
 
+// While Loop
+//  run same code for numbers 1 - 10, run it
+//  through a list of goods or product
+/*
+while (condition){
+    // code to executive
+}
+*/
+
+//  itertion
+// let i = 0
+// while(i< 5){
+//     console.log(i)
+//     i++
+// }
+
+//  do ... while
+
+/* 
+do {
+    // loop body
+} while (consition)
+*/
+
+// do {
+//     console.log(i)
+//     i++
+// } while(i<5)
+
+// for loop
+/*
+for(begin; condtion; step){
+    loop body
+}
+*/
+// for(let i =0; i < 5; i++){
+//     console.log(i)
+// }
+// let i =0
+// for(; i < 5; i++){
+//     console.log(i)
+// }
+
+// for(; i < 5; ){
+//     console.log(i++)
+// }
+
+// let sum = 0
+
+// while(true){
+//     let value = +prompt("enter a number: ")
+//     if(!value) break;
+//     sum += value
+// }
+// alert("sum: " + sum)
 
 
+for(let i=0; i<10;i++){
+    if(i%2==0) continue
+    alert(i)
+  }
+  
