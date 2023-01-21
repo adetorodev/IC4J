@@ -26,6 +26,10 @@ rootNode.innerHTML = innerHTML = `
 </div>
 `;
 
+// function functionName(param1, param2){
+    // return num1 * unum
+// }
+
 // Data Types
 // Primitive Date type
 // Number
