@@ -2,6 +2,8 @@
 // Tip: create a Global variable call accessAllowed
 // Create a variable that holds the user's age
 
+
+
 // Soltn
 //  let accessAllowed;
 
@@ -14,7 +16,7 @@
 //  }
 // let varName = condition ? true : false
 // let accessAllowed = age < 18 ? true : false
-// let accessAllowed = age < 18 ? alert("Access Granted") : alert("Access Not Granted")"Access Not Granted"
+// let accessAllowed = age < 18 ? alert("Access Granted") : alert("Access Not Granted")
 
 //  alert(accessAllowed)
 
