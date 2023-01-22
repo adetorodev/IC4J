@@ -30,7 +30,7 @@ rootNode.innerHTML = innerHTML = `
     // return num1 * unum
 // }
 
-// Data Types
+// Data Types Done
 // Primitive Date type
 // Number
 // String
