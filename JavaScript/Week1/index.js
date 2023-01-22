@@ -30,17 +30,17 @@ rootNode.innerHTML = innerHTML = `
     // return num1 * unum
 // }
 
-// Data Types
-// Primitive Date type
-// Number
+// Data Types Done
+// Primitive Date type done
+// Number Done
 // String
 // Boolean either yes or no (true or false)
 // Null,
 // undefined
 // Symbol
 /* 
-variable
-Data Type
+variable Done 
+Data Type Done
 control flow
 Expression and Operator
 Function
