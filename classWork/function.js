@@ -1,4 +1,12 @@
 // create a function that returns my name.
 // Takes my firstname and lastname as parameters
 // also age para
-// and return my name, age
+
+// sltn
+function getName(firstname, lastname, age){
+    let name = `${firstname} ${lastname}`
+    return `${name} who is ${age} years`
+
+}
+
+alert(getName("John", "Doe", 34))
