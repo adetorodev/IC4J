@@ -31,7 +31,7 @@ rootNode.innerHTML = innerHTML = `
 // }
 
 // Data Types Done
-// Primitive Date type
+// Primitive Date type done
 // Number
 // String
 // Boolean either yes or no (true or false)
