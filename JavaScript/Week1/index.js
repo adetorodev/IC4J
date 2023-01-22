@@ -40,7 +40,7 @@ rootNode.innerHTML = innerHTML = `
 // Symbol
 /* 
 variable Done 
-Data Type
+Data Type Done
 control flow
 Expression and Operator
 Function
