@@ -39,7 +39,7 @@ rootNode.innerHTML = innerHTML = `
 // undefined
 // Symbol
 /* 
-variable
+variable Done 
 Data Type
 control flow
 Expression and Operator
