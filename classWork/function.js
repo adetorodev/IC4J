@@ -3,10 +3,5 @@
 // also age para
 
 // sltn
-function getName(firstname, lastname, age){
-    let name = `${firstname} ${lastname}`
-    return `${name} who is ${age} years`
+// My ezekeil Adetoro I am 23 years old
 
-}
-
-alert(getName("John", "Doe", 34))
