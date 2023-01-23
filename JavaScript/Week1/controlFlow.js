@@ -24,7 +24,7 @@
 
 // let year = prompt("Nigeria indenedence is what year? ")
 
-// // if (year == 1960) alert("You are right")
+// if (year == 1960) alert("You are right")
 
 // if (year == 1960) {
 //     alert("You are right")
@@ -56,7 +56,7 @@ while (condition){
 //  itertion
 // let i = 0
 // while(i< 5){
-//     console.log(i)
+//     alert(i)
 //     i++
 // }
 
@@ -67,9 +67,9 @@ do {
     // loop body
 } while (consition)
 */
-
+// let i =0
 // do {
-//     console.log(i)
+//     alert(i)
 //     i++
 // } while(i<5)
 
@@ -80,29 +80,29 @@ for(begin; condtion; step){
 }
 */
 // for(let i =0; i < 5; i++){
-//     console.log(i)
+//     alert(i)
 // }
 // let i =0
 // for(; i < 5; i++){
-//     console.log(i)
+//     alert(i)
 // }
 
 // for(; i < 5; ){
-//     console.log(i++)
+//     alert(i++)
 // }
 
-// let sum = 0
+let sum = 0
 
-// while(true){
-//     let value = +prompt("enter a number: ")
-//     if(!value) break;
-//     sum += value
-// }
-// alert("sum: " + sum)
+while(true){
+    let value = +prompt("enter a number: ")
+    if(!value) break;
+    sum += value
+}
+alert("sum: " + sum)
 
 
-for(let i=0; i<10;i++){
-    if(i%2==0) continue
-    alert(i)
-  }
+// for(let i=0; i<10;i++){
+//     if(i%2==0) continue
+//     alert(i)
+//   }
   
