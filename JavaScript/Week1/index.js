@@ -21,8 +21,7 @@ const tempScale = 'oC', PI = 3.142
 rootNode.innerHTML = innerHTML = `
 <div>
 <h1> Welcome </h1>
-<h2> This is a refresher class in ${className} </h2>
-<p>This is the current temperature in ${PlaceName} ${currentTempC} ${tempScale} 
+<h2> This is a refresher class in JavaScript </h2>
 </div>
 `;
 
@@ -53,4 +52,18 @@ Abstract Thinking
 Asyncronous
 Date and Time
 
-*/
+
+// }else if(login = "worker"){
+//     message = "hello";
+// }else if(login = ""){
+//     message = "no login";
+// }
+// alert(message)
+// let message = 
+// login = "Employee" 
+// ? alert("Hello") 
+// : login = "Director" 
+// ? alert("Greeting") 
+// : login = "" 
+// ? alert("No login") 
+// : "";
