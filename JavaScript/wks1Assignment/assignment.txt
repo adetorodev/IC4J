@@ -1,5 +1,6 @@
 Declare two variables: admin and name.
-
+var admin;
+var name;
 Assign the value "John" to name.
 
 Copy the value from name to admin.
